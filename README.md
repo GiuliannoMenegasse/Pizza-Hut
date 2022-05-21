@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Pizza Hut" src="https://raw.githubusercontent.com/GiuliannoMenegasse/Pizza-Hut/main/.github/pizza-hut-logo.png" width="200px">
+  <img alt="Pizza Hut" src="https://raw.githubusercontent.com/GiuliannoMenegasse/Pizza-Hut/main/.github/pizza-hut-logo.png" width="250px">
 </p>
 
 ---
@@ -11,31 +11,19 @@
   <br>
 </p>
 
-
-
----
-
-<h2 align="center">Developed Layout</h2>
-   
-   <p align="center">
-      <img alt="Pizza Hut" title="PizzaHut" src=".github/capa.png" />
-   </p>
-
-   <p align="center">
-      The Layout was developed for me, @Giulianno Menegasse, and you can access it on <a href="">Figma</a>.
-   </p>
-
 ---
 
 <h2 align="center">How to Use</h2>
 
    ```
    - Clone this repository:
-   $ git clone https://github.com/
+   $ git clone https://github.com/GiuliannoMenegasse/Pizza-Hut.git
 
    - Enter at directory:
-   $ cd 
+   $ cd Pizza-Hut
 
+   - Start Application:
+   $ Run the solution at Microsoft Visual Studio
    ```
 
 ---
