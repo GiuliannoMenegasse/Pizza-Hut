@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Pizza Hut" src=".github/pizza´hut-logo.png" width="200px">
+  <img alt="Pizza Hut" src="https://raw.githubusercontent.com/GiuliannoMenegasse/Pizza-Hut/main/.github/pizza-hut-logo.png" width="200px">
 </p>
 
 ---
