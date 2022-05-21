@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">How to Use</h2>
+<h2 align="center">How to Use the Program</h2>
 
    ```
    - Clone this repository:
